@@ -1,0 +1,25 @@
+body {
+	background-image: url('image/bg.jpg');
+	background-size: cover;
+}
+table, th, td {
+		border: 1px solid black;
+		padding-right: 25px;
+		padding-left: 25px;
+		font-size: 1.5vw;
+}
+table {
+  border-spacing: 15px;
+}
+h1 {
+	font-size: 3vw;
+}
+h2 {
+	font-size: 2vw;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
