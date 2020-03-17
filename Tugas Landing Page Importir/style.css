@@ -1,0 +1,33 @@
+.content1-bg {
+    background-color: rgb(255, 214, 0);
+}
+
+
+.content1-img {
+
+    width: 500px;
+    height: 300px;
+}
+
+.content1-hr {
+    border-radius: 4px;
+    border: 2px solid blue;
+    width: 50px;
+}
+
+.content1-flag {
+    width: 400px;
+    height: 100px;
+}
+
+.content1-btn {
+    border: 3px solid;
+    font-weight: 700;
+}
+
+.content2-btn {
+    width: 60%;
+    border: none;
+    background-color: rgb(255, 214, 0);
+    box-shadow: 1px -6px 38px 11px rgba(186, 186, 186, 1);
+}
